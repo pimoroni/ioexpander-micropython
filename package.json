@@ -1,0 +1,9 @@
+{
+ "version": "0.0.1",
+ "urls": [
+  [
+   "ioexpander.py",
+   "github:pimoroni/ioexpander-micropython/src/ioexpander.py"
+  ]
+ ]
+}
