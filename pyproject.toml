@@ -42,7 +42,7 @@ dev = [
     "hatch-fancy-pypi-readme",
     "pre-commit",
     "pytest",
-    "ruff==0.16.5",
+    "ruff==0.16.6",
     "tox",
     "twine",
 ]
