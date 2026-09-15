@@ -100,6 +100,9 @@ line-length = 200
 [tool.ruff.lint]
 extend-select = ["I", "UP", "SIM", "PIE", "C4", "B", "RUF", "PERF", "FURB", "PLE"]
 
+[tool.ruff.lint.per-file-ignores]
+"manifest.py" = ["F821"]
+
 [tool.codespell]
 skip = """
 ./.tox,\
